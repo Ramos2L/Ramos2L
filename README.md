@@ -7,7 +7,7 @@
 
 ![Ramos GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramos2L&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramos2L&layout=compact)](https://github.com/Ramos2L/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramos2L&layout=compact&theme=radical)](https://github.com/Ramos2L/github-readme-stats)
 
 ### Tecnologias que utilizo no meu dia
 <div style="display: inline_block"><br/>
