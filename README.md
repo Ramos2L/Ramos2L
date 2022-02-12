@@ -21,11 +21,9 @@
   
   ![Snake animation](https://github.com/Ramos2L/Ramos2L/blob/output/github-contribution-grid-snake.svg)
   
-</div><br/>
+</div>
 
 ### Sempre apaixonado por tecnolgoia, estou me graduando em Ciência da Computação, estou sempre me renovando para aprender e me estimular a crescer...
-
-
 
 <!--
 **Ramos2L/Ramos2L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
