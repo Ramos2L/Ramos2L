@@ -19,11 +19,13 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   
+  ![Snake animation](https://github.com/Ramos2L/Ramos2L/blob/output/github-contribution-grid-snake.svg)
+  
 </div><br/>
 
 ### Sempre apaixonado por tecnolgoia, estou me graduando em Ciência da Computação, estou sempre me renovando para aprender e me estimular a crescer...
 
-![Snake animation](https://github.com/Ramos2L/Ramos2L/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **Ramos2L/Ramos2L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
