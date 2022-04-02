@@ -23,7 +23,8 @@
   
 </div>
 
-### Sempre apaixonado por tecnolgoia, estou me graduando em Ciência da Computação, estou sempre me renovando para aprender e me estimular a crescer...
+### Sempre apaixonado por tecnologia, estou me graduando em Ciência da Computação.
+Buscando sempre me renovar e me estimular a crescer...
 
 <!--
 **Ramos2L/Ramos2L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
