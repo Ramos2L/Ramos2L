@@ -2,7 +2,6 @@
 ### Olá, Eu sou Lucas Ramos 🧑🏼‍💻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramos-lucas/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ramos2ll)
 
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ramos2L&show_icons=true&theme=radical" />
