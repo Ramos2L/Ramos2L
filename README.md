@@ -16,10 +16,6 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/YAML-CB171E.svg?style=for-the-badge&logo=YAML&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
-
-  
-  ![Snake animation](https://github.com/Ramos2L/Ramos2L/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
 
 ### Sempre apaixonado por tecnologia, estou me graduando em Ciência da Computação.
