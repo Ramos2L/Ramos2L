@@ -20,7 +20,8 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
 </div>
 
-### Um garoto apaixonado por tecnologia :) graduado em Ciência da Computação.
+### Um garoto apaixonado por tecnologia :) 
+### Graduado em Ciência da Computação.
 ### Buscando sempre me renovar e me estimular a crescer...
 
 <!--
